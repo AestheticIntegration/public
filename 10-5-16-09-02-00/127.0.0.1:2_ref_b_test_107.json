@@ -1,0 +1,26 @@
+
+  {
+    "packets" : [
+      {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 8944,
+            "SendingTime": 29
+          },
+        "Message" : {
+          "SequrityID": 9,
+          "RepSeqNum": 2997,
+          "PriceLevel": 5,
+          "EntrySize": 30,
+          "EntryPrice": 31,
+          "NumOrders": 32,
+          "MessageType": "New",
+          "EntryType": "ImpliedBid"
+        }
+        }
+      }
+      
+
+    ]
+  }
+  

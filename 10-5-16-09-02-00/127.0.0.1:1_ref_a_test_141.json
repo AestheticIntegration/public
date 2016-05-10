@@ -1,0 +1,226 @@
+
+  {
+    "packets" : [
+      {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 1,
+            "SendingTime": 1
+          },
+        "Message" : {
+          "SequrityID": 9,
+          "RepSeqNum": 5857,
+          "PriceLevel": 1,
+          "EntrySize": 100,
+          "EntryPrice": 100000,
+          "NumOrders": 100,
+          "MessageType": "New",
+          "EntryType": "Offer"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 1,
+            "SendingTime": 1
+          },
+        "Message" : {
+          "SequrityID": 9,
+          "RepSeqNum": 5858,
+          "PriceLevel": 2,
+          "EntrySize": 100,
+          "EntryPrice": 100500,
+          "NumOrders": 100,
+          "MessageType": "New",
+          "EntryType": "Offer"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 1,
+            "SendingTime": 1
+          },
+        "Message" : {
+          "SequrityID": 9,
+          "RepSeqNum": 5859,
+          "PriceLevel": 3,
+          "EntrySize": 100,
+          "EntryPrice": 101000,
+          "NumOrders": 100,
+          "MessageType": "New",
+          "EntryType": "Offer"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 1,
+            "SendingTime": 1
+          },
+        "Message" : {
+          "SequrityID": 9,
+          "RepSeqNum": 5860,
+          "PriceLevel": 4,
+          "EntrySize": 100,
+          "EntryPrice": 101500,
+          "NumOrders": 100,
+          "MessageType": "New",
+          "EntryType": "Offer"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 1,
+            "SendingTime": 1
+          },
+        "Message" : {
+          "SequrityID": 9,
+          "RepSeqNum": 5861,
+          "PriceLevel": 5,
+          "EntrySize": 100,
+          "EntryPrice": 102000,
+          "NumOrders": 100,
+          "MessageType": "New",
+          "EntryType": "Offer"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 1,
+            "SendingTime": 1
+          },
+        "Message" : {
+          "SequrityID": 9,
+          "RepSeqNum": 5852,
+          "PriceLevel": 1,
+          "EntrySize": 100,
+          "EntryPrice": 99500,
+          "NumOrders": 100,
+          "MessageType": "New",
+          "EntryType": "Bid"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 1,
+            "SendingTime": 1
+          },
+        "Message" : {
+          "SequrityID": 9,
+          "RepSeqNum": 5853,
+          "PriceLevel": 2,
+          "EntrySize": 100,
+          "EntryPrice": 99000,
+          "NumOrders": 100,
+          "MessageType": "New",
+          "EntryType": "Bid"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 1,
+            "SendingTime": 1
+          },
+        "Message" : {
+          "SequrityID": 9,
+          "RepSeqNum": 5854,
+          "PriceLevel": 3,
+          "EntrySize": 100,
+          "EntryPrice": 98500,
+          "NumOrders": 100,
+          "MessageType": "New",
+          "EntryType": "Bid"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 1,
+            "SendingTime": 1
+          },
+        "Message" : {
+          "SequrityID": 9,
+          "RepSeqNum": 5855,
+          "PriceLevel": 4,
+          "EntrySize": 100,
+          "EntryPrice": 98000,
+          "NumOrders": 100,
+          "MessageType": "New",
+          "EntryType": "Bid"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 1,
+            "SendingTime": 1
+          },
+        "Message" : {
+          "SequrityID": 9,
+          "RepSeqNum": 5856,
+          "PriceLevel": 5,
+          "EntrySize": 100,
+          "EntryPrice": 97500,
+          "NumOrders": 100,
+          "MessageType": "New",
+          "EntryType": "Bid"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": -1046,
+            "SendingTime": 18
+          },
+        "Message" : {
+          "SequrityID": 9,
+          "RepSeqNum": 5853,
+          "PriceLevel": 2,
+          "EntrySize": 19,
+          "EntryPrice": 20,
+          "NumOrders": 21,
+          "MessageType": "New",
+          "EntryType": "Bid"
+        }
+        }
+      }
+      
+
+    ]
+  }
+  

@@ -1,0 +1,26 @@
+
+  {
+    "packets" : [
+      {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 8854,
+            "SendingTime": 3
+          },
+        "Message" : {
+          "SequrityID": 1,
+          "RepSeqNum": 1236,
+          "PriceLevel": 5,
+          "EntrySize": 4,
+          "EntryPrice": 6,
+          "NumOrders": 7,
+          "MessageType": "DeleteFrom",
+          "EntryType": "Offer"
+        }
+        }
+      }
+      
+
+    ]
+  }
+  

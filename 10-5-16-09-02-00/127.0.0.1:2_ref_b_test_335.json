@@ -1,0 +1,26 @@
+
+  {
+    "packets" : [
+      {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 3,
+            "SendingTime": 6
+          },
+        "Message" : {
+          "SequrityID": 1,
+          "RepSeqNum": 7719,
+          "PriceLevel": 4,
+          "EntrySize": 7,
+          "EntryPrice": 8,
+          "NumOrders": 9,
+          "MessageType": "DeleteFrom",
+          "EntryType": "ImpliedBid"
+        }
+        }
+      }
+      
+
+    ]
+  }
+  

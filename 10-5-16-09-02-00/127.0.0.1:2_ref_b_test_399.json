@@ -1,0 +1,26 @@
+
+  {
+    "packets" : [
+      {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 36,
+            "SendingTime": 37
+          },
+        "Message" : {
+          "SequrityID": 39,
+          "RepSeqNum": -472,
+          "PriceLevel": 40,
+          "EntrySize": 41,
+          "EntryPrice": 42,
+          "NumOrders": 43,
+          "MessageType": "New",
+          "EntryType": "Bid"
+        }
+        }
+      }
+      
+
+    ]
+  }
+  
