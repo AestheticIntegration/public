@@ -1,0 +1,23 @@
+N 0 
+MB 0 
+MA 0 
+IB 0 
+IA 0 
+CB 0 
+CA 0 
+
+N 1 
+MB 0 
+MA 0 
+IB 0 
+IA 0 
+CB 0 
+CA 0 
+
+N 2 
+MB 0 
+MA 0 
+IB 0 
+IA 1 0 27 26
+CB 0 
+CA 0 

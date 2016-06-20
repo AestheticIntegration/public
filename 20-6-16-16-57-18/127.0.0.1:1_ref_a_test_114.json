@@ -1,0 +1,66 @@
+
+  {
+    "packets" : [
+      {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 20,
+            "SendingTime": 21
+          },
+        "Message" : {
+          "SequrityID": 12,
+          "RepSeqNum": 867,
+          "PriceLevel": 22,
+          "EntrySize": 23,
+          "EntryPrice": 24,
+          "NumOrders": 25,
+          "MessageType": "New",
+          "EntryType": "Bid"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 39,
+            "SendingTime": 40
+          },
+        "Message" : {
+          "SequrityID": 41,
+          "RepSeqNum": 42,
+          "PriceLevel": 6,
+          "EntrySize": 43,
+          "EntryPrice": 44,
+          "NumOrders": 45,
+          "MessageType": "New",
+          "EntryType": "Bid"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 7,
+            "SendingTime": 8
+          },
+        "Message" : {
+          "SequrityID": 12,
+          "RepSeqNum": 0,
+          "PriceLevel": 1,
+          "EntrySize": 9,
+          "EntryPrice": 10,
+          "NumOrders": 11,
+          "MessageType": "New",
+          "EntryType": "EmptyBook"
+        }
+        }
+      }
+      
+
+    ]
+  }
+  

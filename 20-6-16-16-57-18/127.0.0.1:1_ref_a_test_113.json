@@ -1,0 +1,66 @@
+
+  {
+    "packets" : [
+      {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 13,
+            "SendingTime": 14
+          },
+        "Message" : {
+          "SequrityID": 4,
+          "RepSeqNum": 840,
+          "PriceLevel": 15,
+          "EntrySize": 16,
+          "EntryPrice": 17,
+          "NumOrders": 18,
+          "MessageType": "New",
+          "EntryType": "Bid"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 35,
+            "SendingTime": 36
+          },
+        "Message" : {
+          "SequrityID": 37,
+          "RepSeqNum": 38,
+          "PriceLevel": 6,
+          "EntrySize": 39,
+          "EntryPrice": 40,
+          "NumOrders": 41,
+          "MessageType": "New",
+          "EntryType": "Bid"
+        }
+        }
+      }
+      
+,
+ {
+        "IncRefreshPacket" : {
+          "Header" : {
+            "SequenceNumber": 29,
+            "SendingTime": 30
+          },
+        "Message" : {
+          "SequrityID": 4,
+          "RepSeqNum": 0,
+          "PriceLevel": 5,
+          "EntrySize": 31,
+          "EntryPrice": 32,
+          "NumOrders": 33,
+          "MessageType": "New",
+          "EntryType": "Bid"
+        }
+        }
+      }
+      
+
+    ]
+  }
+  
