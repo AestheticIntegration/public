@@ -1,12 +1,15 @@
 artifacts = *.a *.cma *.cmi *.cmo *.cmx *.cmxa *.o *.so
 
-all: ocyaml.cmi ocyaml.cma
+all: ocyaml.cmi ocyaml.cma ocyaml.cmxa
 
-ocyaml.cma: ocyaml.cmo ocyaml.o
+ocyaml.cma ocyaml.cmxa: ocyaml.cmo ocyaml.cmx ocyaml.o
 	ocamlmklib -o ocyaml -lyaml $^
 
 %.cmo: %.ml
 	ocamlc -c $<
+
+%.cmx : %.ml
+	ocamlopt -c $<
 
 %.cmi: %.mli
 	ocamlc -c $<
